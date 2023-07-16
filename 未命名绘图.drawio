@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T05:10:49.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gPtK0UmBy5-C5nGFsRra" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T05:50:27.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="D8d_hIk5PINT0DT7hnKm" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="724" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
           <mxGeometry x="296.13" y="183" width="167.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;Cases with incomplete target information above were excluded. Cases diagnosed in the years 1973-2009 were excluded&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;spacingBottom=2;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="206" width="130" height="64" as="geometry" />
+          <mxGeometry x="550" y="201" width="130" height="74" as="geometry" />
         </mxCell>
         <mxCell id="oFgDFLpU9PCx--5mLgy--50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="oFgDFLpU9PCx--5mLgy--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
